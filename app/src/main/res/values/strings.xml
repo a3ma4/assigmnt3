@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="play">تشغيل الموسيقى</string>
+    <string name="stop">إيقاف الموسيقى</string>
+    <string name="status_playing">قيد التشغيل</string>
+    <string name="status_stopped">متوقف</string>
+</resources>
